@@ -69,7 +69,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=akrammuh&theme=radical&no-frame=false&no-bg=false&margin-w=4" height="150" alt="stats graph"  />
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="stats graph"  />
 </div>
