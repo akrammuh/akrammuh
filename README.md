@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/My_Portfolio-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
 </a>
     <a href="https://linkedin.com/in/radifa/">
-  <img src="https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=whatsapp"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/>
 </a>
   </p>
   
