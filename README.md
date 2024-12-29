@@ -1,16 +1,6 @@
 <div align="center">
   <img height="200" src="https://i.imgur.com/4ASafy0.png"  />
-  <p align="center"> 
-  <a href="https://radifa.my.id">
-  <img src="https://img.shields.io/badge/My_Portfolio-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
-</a>
-    <a href="https://linkedin.com/in/radifa/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/>
-</a>
-     <a href="https://linkedin.com/in/radifa/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-</a>
-  </p>
+  
   
 
 </div>
