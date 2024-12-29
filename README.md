@@ -70,10 +70,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="stats graph"  />
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=akrammuh&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" height="150" alt="stats graph"  />
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akrammuh&icon=2&color=9)](https://visitcount.itsvg.in)
