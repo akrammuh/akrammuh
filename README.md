@@ -2,7 +2,7 @@
   <img height="200" src="https://i.imgur.com/4ASafy0.png"  />
   <p align="center"> 
   <a href="#">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whatsapp-%237289DA.svg?logo=whatsapp&logoColor=white"/>
 </a>
     <a href="https://linkedin.com/in/radifa/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
