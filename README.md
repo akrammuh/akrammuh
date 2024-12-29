@@ -2,10 +2,10 @@
   <img height="200" src="https://i.imgur.com/4ASafy0.png"  />
   <p align="center"> 
   <a href="#">
-  <img src="https://img.shields.io/badge/My_Portfolio-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
 </a>
     <a href="https://linkedin.com/in/radifa/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
 </a>
   </p>
   
@@ -58,7 +58,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=akrammuh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![sdfsdfsdf](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akrammuh&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
