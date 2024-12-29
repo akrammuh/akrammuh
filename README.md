@@ -1,7 +1,7 @@
 <div align="center">
   <img height="200" src="https://i.imgur.com/4ASafy0.png"  />
   <p align="center">
-    <a href="https://akrammuh.github.io/portfolioku/">
+    <a href="#">
   <img src="https://img.shields.io/badge/My_Portfolio-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
 </a>
 <a href="#">
