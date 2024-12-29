@@ -30,14 +30,18 @@
 
 
 
-<h1>I'm a Fullstuck developar <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
+<h1>I'm a Software Engineer<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
 <img align="right" alt="GIF" height="160px" margin="0px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br/>
-👨‍💻 I’m currently undergraduate informatics student at STMIK Widya Cipta Dharma
+🎯 I specialize in building efficient, scalable, and user-friendly applications.
 <br/>
-📚 I’m currently learning everything about web and mobile technologies 😅
+📚 I’m currently exploring advanced web and mobile development technologies.
 <br/>
-💪🏼 Future Goals: Learn more technologies
+💡 Passionate about solving complex problems and creating impactful solutions.
+<br/>
+💻 Always eager to learn and grow in the ever-evolving tech landscape.
+<br/>
+🌟 Future Goals: Deliver innovative and reliable software solutions for real-world challenges.
 
 ---
 
