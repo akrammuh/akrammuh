@@ -1,14 +1,26 @@
 <div align="center">
   <img height="200" src="https://i.imgur.com/4ASafy0.png"  />
-  <p align="center"> 
-  <a href="#">
+  <p align="center">
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a> 
+<a href="#">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>
 </a>
-  <a href="https://linkedin.com/in/radifa/">
+<a href="#">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"/>
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/radifa/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+<a href="#">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
 </a>
   </p>
   
